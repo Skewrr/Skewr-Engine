@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestApp", "TestApp\TestApp.vcxproj", "{8A025368-AB7F-42B2-A8D2-C2DE0EA761DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skewr Engine", "Skewr Engine\Skewr Engine.vcxproj", "{A3F5321F-A433-4D41-9756-8FD0923997E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F5321F-A433-4D41-9756-8FD0923997E4}.Debug|x64.ActiveCfg = Debug|x64
+		{A3F5321F-A433-4D41-9756-8FD0923997E4}.Debug|x64.Build.0 = Debug|x64
+		{A3F5321F-A433-4D41-9756-8FD0923997E4}.Release|x64.ActiveCfg = Release|x64
+		{A3F5321F-A433-4D41-9756-8FD0923997E4}.Release|x64.Build.0 = Release|x64
+		{8A025368-AB7F-42B2-A8D2-C2DE0EA761DB}.Debug|x64.ActiveCfg = Debug|x64
+		{8A025368-AB7F-42B2-A8D2-C2DE0EA761DB}.Debug|x64.Build.0 = Debug|x64
+		{8A025368-AB7F-42B2-A8D2-C2DE0EA761DB}.Release|x64.ActiveCfg = Release|x64
+		{8A025368-AB7F-42B2-A8D2-C2DE0EA761DB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EEA3A9E-0864-47A7-99F3-1B8F6DE6886F}
+	EndGlobalSection
+EndGlobal
